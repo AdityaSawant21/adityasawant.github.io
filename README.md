@@ -1,2 +1,2 @@
-# adityasawant.github.io
+# adityaasawant.github.io
 My Own Website
